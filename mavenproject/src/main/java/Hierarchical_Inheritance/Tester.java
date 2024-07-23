@@ -9,13 +9,13 @@ public class Tester extends Employee {
 		System.out.println("Employee ID is : "+ id);
 	}
 	
-
 	public static void main(String[] args) {
 		
 		Tester obj = new Tester();
-		Developer obj = new Developer();
+		Developer obj1 = new Developer();
 			obj.display();
 			obj.show();
+			obj1.print();
 	}
 
 }
