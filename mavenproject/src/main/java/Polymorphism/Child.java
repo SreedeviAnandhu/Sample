@@ -14,7 +14,7 @@ public class Child extends Parent{
 		Child obj = new Child();
 		obj.sum(2,4);
 		
-		Parent p = new Child(); //upcasting
+		Parent p = new Child(); //up casting
 		p.sum(2, 2);
 		
 	}
