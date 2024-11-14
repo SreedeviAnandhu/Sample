@@ -1,4 +1,4 @@
-package MultipleInheritance;
+package MultiLevel_inheritance;
 
 public class Dog extends Animal {
 	

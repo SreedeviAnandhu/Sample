@@ -6,7 +6,7 @@ public class Studentname {
 	int rollno;
 	
 	public Studentname(String name,String department,int rollno)
-	{2
+	{
 		
 		this.name = name;
 		this.department = department;
